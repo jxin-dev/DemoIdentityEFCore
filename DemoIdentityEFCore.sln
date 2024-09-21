@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{972B136E-283F-4A62-8908-2903765EDB63}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoIdentityEFCore.API", "DemoIdentityEFCore.API\DemoIdentityEFCore.API.csproj", "{DB9F3602-A800-4A58-8BAD-7D52A9AE6FAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB9F3602-A800-4A58-8BAD-7D52A9AE6FAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB9F3602-A800-4A58-8BAD-7D52A9AE6FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB9F3602-A800-4A58-8BAD-7D52A9AE6FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB9F3602-A800-4A58-8BAD-7D52A9AE6FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DB9F3602-A800-4A58-8BAD-7D52A9AE6FAB} = {972B136E-283F-4A62-8908-2903765EDB63}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E4FDFE0-23D3-4FFE-991D-DB3A8B0D6334}
+	EndGlobalSection
+EndGlobal
